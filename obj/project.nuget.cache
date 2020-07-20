@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Xb7qUCeUqMRS7cc2E6MyVhzd3qT2CgMhIs+dFKHROXsVs9PLP59N6XQrQ1uwLla6TUpuvvTCXkLYYESiMjOdg==",
+  "success": true,
+  "projectFilePath": "G:\\CTS Data\\Stage IV\\WallPaperAPI\\WallPaperAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
